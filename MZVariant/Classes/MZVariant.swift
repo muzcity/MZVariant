@@ -8,7 +8,7 @@
 
 import Foundation
 
-//In order to use it for custom classes and structures, MZVariable protocol must be inherited.
+//In order to use it for custom classes and structures, MZVariable protocol must be declared.
 public protocol MZVariantSupportable {
 }
 
