@@ -1,0 +1,6 @@
+framework module MZVariant {
+  umbrella header "MZVariant-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZVariant_Example' do
+  pod 'MZVariant', :path => '../'
+
+  target 'MZVariant_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
