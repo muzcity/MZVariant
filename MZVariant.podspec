@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MZVariant'
-  s.version          = '0.9.0'
+  s.version          = '0.9.1'
   s.summary          = 'Use MZVariant type instead of Any and AnyObject.'
 
 # This description is used to generate tags and improve search results.
